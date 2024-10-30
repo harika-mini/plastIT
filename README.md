@@ -42,8 +42,9 @@ Home Screen
 Waste Tracking Interface
 
 ## Technologies Used
-[List technologies, frameworks, and libraries used in your app, e.g., React Native, Node.js, etc.]
-Contributing
+to be mentioned shortly
+
+## Contributing
 Contributions are welcome! If you'd like to contribute to plastIT, please follow these steps:
 
 ## Fork the repository.
